@@ -1,14 +1,27 @@
 export const dataFake = [
   {
     "id":"1",
-    "title": "NOVO HOMEM DE FERRO EM 3D",
-    "description": "marvel anuncia um novo filme do homem de ferro, confira",
-    "photoCover":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F51FA9F6CBD9F0C9B1394B1CC0A6A842D07091318674E234CD33CBF7C28CDC3/scale?width=1200&aspectRatio=1.78&format=jpeg"
+    "title": "DOMINE O TRELLO: GERENCIE PROJETOS DE QUALQUER LUGAR",
+    "description": "Descubra como o Trello pode ajudar seu time a se organizar, colaborar e aumentar a produtividade!",
+    "photoCover":"https://i.pinimg.com/736x/89/d3/78/89d378b845766a8f0c48e955336266f8.jpg"
   },
   {
     "id":"2",
-    "title": "Nova Série anunciada no Disney +",
-    "description": "bla blabla",
-    "photoCover":"https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg"
+    "title": "TRELLO NA PRÁTICA: ORGANIZE TAREFAS COM FACILIDADE",
+    "description": "Aprenda a estruturar seu fluxo de trabalho no Trello, otimize processos e mantenha tudo sob controle!",
+    "photoCover":"https://i.pinimg.com/736x/bb/d6/0a/bbd60a4ee7da5ebec6127eb4a39ec937.jpg"
+  },
+  {
+    "id":"3",
+    "title": "PRODUTIVIDADE VISUAL: COMO O TRELLO TRANSFORMA SUA ROTINA",
+    "description": "Veja como os quadros, listas e cartões do Trello podem tornar sua gestão de tarefas mais eficiente e intuitiva.",
+    "photoCover":"https://i.pinimg.com/736x/99/f9/a9/99f9a9bbb201e7258180abd3fd25345c.jpg"
+  },
+  {
+    "id":"4",
+    "title": "MÉTODO KANBAN NO TRELLO: O SEGREDO PARA UMA GESTÃO ÁGIL",
+    "description": "Descubra como aplicar o método Kanban no Trello para acompanhar projetos, delegar tarefas e aumentar a produtividade!",
+    "photoCover":"https://i.pinimg.com/736x/e5/b1/e8/e5b1e8ed4376aa4cf507a33064123c0b.jpg"
   }
 ]
+
